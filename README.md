@@ -4,6 +4,7 @@ A list of AI autonomous agents in Web3
 ## AI Agent Frameworks
 
 ### Python
+
 - [cdp-agentkit](https://github.com/coinbase/cdp-agentkit) - Simplifies bringing your AI Agents onchain. Every AI Agent deserves a crypto wallet!
 - [intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 - [SwarmNode](https://github.com/swarmnode-ai/swarmnode-python) - Deploy and orchestrate serverless AI agents in the cloud.
@@ -15,3 +16,16 @@ A list of AI autonomous agents in Web3
 - [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
 - [goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any onchain app.
 - [solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - Connect any ai agents to solana protocols.
+
+## AI Agent Launchpads
+
+### Base
+
+- [Clanker](https://www.clanker.world) - Autonomous memecoins.
+- [Virtuals](https://www.virtuals.io) - Create and Co-own AI Agents.
+
+### Solana
+
+- [Griffain](https://griffain.com) - Coordinate a network of AI agents that help you take action on-chain.
+- [TopHat](https://tophat.one) - Top Hat is an open launchpad for AI agents.
+
