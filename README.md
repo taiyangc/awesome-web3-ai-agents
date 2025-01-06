@@ -25,6 +25,9 @@ A list of AI autonomous agents in Web3
 
 ## AI Agent Token Launchpads
 
+### Avalanche
+- [Delaunch](https://www.delaunch.ai) - Avalanche native AI agent launchpad powered by Agent Intelligence Protocol (AIP). 
+
 ### Base
 
 - [Clanker](https://www.clanker.world) - Autonomous memecoins.
