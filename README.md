@@ -5,10 +5,12 @@ A list of AI autonomous agents in Web3
 
 ### Python
 
+- [agentipy](https://github.com/niceberginc/agentipy) - A powerful toolkit for interacting with the Solana blockchain, providing easy-to-use functions for token operations, trading, and more. Now integrated with LangChain for enhanced functionality.
 - [cdp-agentkit](https://github.com/coinbase/cdp-agentkit) - Simplifies bringing your AI agents onchain. Every AI agent deserves a crypto wallet!
 - [emp-agents](https://github.com/empyrealapp/emp-agents) - A library for building low-code, capable and extensible autonomous agent systems open sourced by Empyreal.
 - [intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 - [SwarmNode](https://github.com/swarmnode-ai/swarmnode-python) - Deploy and orchestrate serverless AI agents in the cloud.
+- [SwarmZero](https://github.com/swarmzero/swarmzero) - This library provides you with an easy way to create and run AI agents and swarms of agents.
 - [virtuals-python](https://github.com/Virtual-Protocol/virtuals-python) - This SDK/API allows you to configure your agents powered by the GAME architecture.
 - [ZerePy](https://github.com/blorm-network/ZerePy) - ZerePy an open-source launch-pad for AI agents.
 
@@ -38,6 +40,10 @@ A list of AI autonomous agents in Web3
 - [Zentients](https://zentients.xyz) [Coming Soon] - A consumer facing launchpad for agents.
 
 ## AI Agent Creation Platforms
+
+### Omnichain
+- [Crestal](https://www.crestal.network) [Waitlist] - Use Crestal’s AI-powered tools and community of contributors to design, launch, and evolve intelligent agents tailored to your needs — so you can start benefiting in minutes, not months.
+- [Wayfinder](https://www.wayfinder.ai) [Waitlist] - An omni-chain tool providing groundbreaking ways for AI to interact with blockchain environments.
 
 ### Base
 - [Simulacrum](https://simulacrum.network) - Simulacrum turns social media messages into blockchain actions.
