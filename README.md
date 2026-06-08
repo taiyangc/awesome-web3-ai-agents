@@ -61,3 +61,8 @@ A list of AI autonomous agents in Web3
 
 - [Almanak](https://almanak.co) [Waitlist] - A permissionless end-to-end platform to build, test, train, optimise and deploy autonomous financial agents.
 - [Koboto](https://koboto.xyz) [Waitlist] - Self coordinating network with dynamic & modular multi agent system.
+## AI Agent Trust & Identity
+
+### Solana
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments and paid API calls. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
