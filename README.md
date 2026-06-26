@@ -6,6 +6,7 @@ A list of AI autonomous agents in Web3
 ### Python
 
 - [agentipy](https://github.com/niceberginc/agentipy) - A powerful toolkit for interacting with the Solana blockchain, providing easy-to-use functions for token operations, trading, and more. Now integrated with LangChain for enhanced functionality.
+- [AgentsCoin](https://agents-coin.com) - Give your AI agent its own money — a live EVM chain where agents create a wallet, mine AGENT, send, and create/trade tokens. Available as a Python SDK (pip install agentscoin), MCP server, AgentKit action, n8n node, and ElizaOS plugin.
 - [cdp-agentkit](https://github.com/coinbase/cdp-agentkit) - Simplifies bringing your AI agents onchain. Every AI agent deserves a crypto wallet!
 - [emp-agents](https://github.com/empyrealapp/emp-agents) - A library for building low-code, capable and extensible autonomous agent systems open-sourced by Empyreal.
 - [intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
