@@ -19,6 +19,7 @@ A list of AI autonomous agents in Web3
 
 ### Typescript
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local TypeScript CLI and stdio MCP payment runtime with owner-set limits and command-specific foreground approval for AI agents on macOS Apple Silicon.
 - [eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
 - [goat](https://github.com/goat-sdk/goat) - The open-source framework for connecting AI agents to any on-chain app.
 - [solana-agent-kit](https://github.com/sendaifun/solana-agent-kit) - Connect any AI agents to solana protocols.
